@@ -11,7 +11,7 @@
 
 <p align="center">
   <em>
-    Hey, I am Piyush Kalyan a <b>second year student </b> persuing B.Tech with major in CSE branch from<a href="https://www.gehu.ac.in/"> <b>Graphic Era Hill University</b>, Dehradun </a>. <br>
+    Hey, I am Piyush Kalyan persuing B.Tech with major in CSE branch from<a href="https://www.gehu.ac.in/"> <b>Graphic Era Hill University</b>, Dehradun </a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">, UI/UX designer and an <b>Web developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp
   </em> 
   <br>
