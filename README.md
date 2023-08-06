@@ -11,11 +11,11 @@
 
 <p align="center">
   <em>
-    Hey, I am Piyush Kalyan persuing B.Tech with major in CSE branch from<a href="https://www.gehu.ac.in/"> <b>Graphic Era Hill University</b>, Dehradun </a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">, UI/UX designer and an <b>Web developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp
+    Hey, I am Piyush Kalyan pursuing in Bachelors of Technology in Computer Science  <br>
+    <b>A passionate self-learner</b> , UI/UX designer and <b>Web developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "The Problem is rarely the Problem”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 <br><br>
 <p align="center">
@@ -23,11 +23,9 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 </p>
-###  I'm second year student persuing B.Tech with major in CSE 😇
 
-- 👋 Hi, I’m Piyush Kalyan
 - 👀 I’m interested in **Learning new Technologies and building amazing projects**
-- 🌱 I’m currently learning ***Web development with Next JS***
+- 🌱 I’m currently learning ***Web development***
 - 🤝 Feel free to ask your problems, **Always ready to help**
 - 💬 Ask me about **anything related to** ***Web Development, Next JS, firebase*** **and languages** - ***C++ , C***  and ***Python***
 - 📫 How to reach me *kalyanpiyushp@gmail.com*
